@@ -1,0 +1,13 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4{
+    font-family: 'Electrolize', sans-serif;
+}
+
+h1, h2, h3, h4{color: #453F78;}
+
+main{background-color: #759AAB;}
+
+nav{background-image: url(https://picsum.photos/200/300) ;}
