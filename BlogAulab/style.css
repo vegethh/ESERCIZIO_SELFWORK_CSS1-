@@ -8,6 +8,17 @@ h1, h2, h3, h4{
 
 h1, h2, h3, h4{color: #453F78;}
 
-main{background-color: #759AAB;}
+main{background-color: #8175ab55;}
 
 nav{background-image: url(https://picsum.photos/200/300) ;}
+
+.LinkHome{color: whitesmoke;
+text-decoration: none;}
+.AulabLogo1{height: 100px; width: 100 px;}
+
+.Sicily{background-color: rgba(38, 38, 38, 0.607);}
+
+.Sicily:hover{
+    background-color: aquamarine;
+    color: whitesmoke;
+}
